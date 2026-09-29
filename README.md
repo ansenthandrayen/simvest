@@ -1,10 +1,10 @@
-# 💰 Simulateur Crypto - S'investir
+# 💰 SimVest
 
 Simulateur d'investissement DCA (Dollar Cost Averaging) en cryptomonnaies, conçu pour s'intégrer à la suite d'outils S'investir.
 
-🔗 **Démo en ligne** : [simulateur-crypto-sinvestir.vercel.app](https://simulateur-crypto-sinvestir-olive.vercel.app/)
+🔗 **Démo en ligne** : [simvest.vercel.app](https://simvest-olive.vercel.app/)
 
-![Simulateur Screenshot](./screenshot.png)
+![SimVest Screenshot](./screenshot.png)
 
 ## ✨ Fonctionnalités
 
@@ -52,8 +52,8 @@ Le modèle de référence propose deux graphiques distincts (Historique + Gains/
 
 # Cloner le repo
 
-git clone https://github.com/ansenthandrayen/simulateur-crypto-sinvestir.git
-cd simulateur-crypto-sinvestir
+git clone https://github.com/ansenthandrayen/simvest.git
+cd simvest
 
 # Installer les dépendances
 

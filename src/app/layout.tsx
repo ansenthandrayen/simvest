@@ -5,7 +5,7 @@ import "./globals.css";
 // Métadonnées de la page - visibles dans l'onglet du navigateur
 // et pour le référencement (SEO)
 export const metadata: Metadata = {
-  title: "Simulateur Crypto - S'investir",
+  title: "SimVest",
   description: "Simulateur d'investissement DCA en cryptomonnaies",
 };
 
