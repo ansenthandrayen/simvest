@@ -42,8 +42,7 @@ export default function Sidebar() {
       >
         {/* Logo / nom de l'application */}
         <div className="mb-10">
-          <h1 className="title-section text-lg text-gold">S&apos;investir</h1>
-          <p className="title-section text-sm text-text-primary">Simulateurs</p>
+          <h1 className="title-section text-lg text-gold">SimVest</h1>
         </div>
 
         {/* Navigation principale */}
